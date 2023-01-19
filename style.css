@@ -149,14 +149,6 @@ address {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-.logo-lines_left .logo-line:nth-child(2) {
-  margin-right: 20px;
-  width: 55px;
-}
-.logo-lines_right .logo-line:nth-child(2) {
-  margin-left: 20px;
-  width: 55px;
-}
 .about {
   padding-bottom: 30px;
   border-bottom: 1px solid #e0e0e0;
@@ -177,11 +169,11 @@ address {
   margin-bottom: 30px;
 }
 .about-contacts {
-  font-size: 8px;
+  font-size: 9px;
 }
 .about-contacts__link {
   text-decoration: none;
-  color: #777777;
+  color: #696969;
 }
 .heading_dark {
   font-size: 16px;
@@ -198,7 +190,7 @@ address {
   padding-left: 40px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  border-bottom: 2px dashed #ececec;
+  border-bottom: 3px dashed #ececec;
 }
 .list-item:before {
   content: '';
